@@ -1,2 +1,2 @@
 # Code
-Code Repo for the practice
+Code Repo for the Git practice
